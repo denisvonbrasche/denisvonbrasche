@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Product guy having fun with code
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vonbrasche/)
+- ⚡ Fun fact: I learned HTML 1.0/2.0 by reading books and writing code by hand, but I never wanted to be a developer
